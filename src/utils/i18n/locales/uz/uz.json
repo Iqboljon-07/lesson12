@@ -1,0 +1,22 @@
+{
+    "Welcome to React": "Rezyume",
+      "frontend":"Frontend шshlab СHiqish",
+      "name":"Iqboljon Orifjonov",
+           "address":"Uy-9, Yashnobod tumani, Toshkent shahri",
+            "personal details":"Tel:99890 343 83 30   //   Email/orifjonoviqboljon@gmail.com",
+            "experince":"TAJRIBA",
+             "designer":"Grafik-dizayner",
+             "ofis":"Mollis textile MCHJ",
+               "gemini":"Gemini pragrammasida ishlaganman.Gemini — bu tekstil va kiyim-kechak sanoatida dizayn, shablon yaratish va avtomatlashtirilgan kesish jarayonlari uchun ishlab chiqilgan CAD (Computer-Aided Design) tizimi. Bu dastur ishlab chiqarish jarayonlarini tezlashtirish va resurslarni samarali ishlatishga yordam beradi.Matoni optimal ravishda kesib, qoldiq va chiqindilarni kamaytiradi.Matoning har bir qismini tejash uchun maxsus algoritmlardan foydalanadi.Matoni optimal joylashtirish algoritmi tufayli material isrofini kamaytiradi.Avtomatlashtirilgan jarayonlar yordamida ishlab chiqarish tezligini oshiradi. Dizayn va kesish jarayonida yuqori aniqlikni ta’minlaydi.",
+               "ofis2":"Platinum textile MCHJ",
+               "texnopark":"Texnopark MCHJ",
+               "ofis3":"Sifat nazoratchisi",
+               "control":"Sifat nazoratchisining vazifasi ishlab chiqarish jarayonlarini nazorat qilish, tayyor mahsulot sifatini belgilangan standartlar va talablar asosida baholash hamda nuqsonlarni oldini olishdan iborat. Bu lavozim, ayniqsa, texnikaviy va texnologik mahsulot ishlab chiqarishda juda muhim hisoblanadi.Mahsulot ishlab chiqarishning barcha bosqichlarida sifat standartlariga rioya qilinishini tekshirish.Ishlab chiqarish texnologiyalarining to‘g‘ri bajarilishini nazorat qilish.Tayyor mahsulotni sifat standartlari (ISO, GOST yoki ichki kompaniya standartlari) asosida tekshirish.Maxsus asbob-uskunalar yordamida mahsulotni sinovdan o‘tkazish.Nuqsonli mahsulotlarni aniqlash va ularning sabablarini tahlil qilish.Ishlab chiqarish jarayonida yuzaga kelgan kamchiliklarni bartaraf etish bo‘yicha tavsiyalar berish.",
+               "education":"Ta'lim",
+               "major":"Frontend ReactJS",
+               "named":"NA'JOT TA'LIM nomli o'quv markazi",
+               "subject":"HTML CSS SASS Bootstrap Tailwind JavaScript React Typescript Next js ",
+               "major2":"Texnologik jarayonlarni boshqarish va avtomatlashtirish",
+               "named2":"Farg'ona Politexnika instuti",
+               "subject2":"Texnologik jarayonlarni boshqarish va avtomatlashtirish yo‘nalishi zamonaviy ishlab chiqarish sohasida muhim ahamiyatga ega bo‘lib, uning asosiy maqsadi ishlab chiqarish jarayonlarini yuqori samaradorlik bilan boshqarish, inson omilini kamaytirish va resurslardan optimal foydalanishni ta’minlashdir. Bu jarayonlarda sensorlar, aktuatorlar, dasturlashtiriladigan mantiqiy boshqaruvchilar (PLC), SCADA tizimlari va robototexnika texnologiyalaridan foydalaniladi."
+  }

@@ -1,0 +1,23 @@
+{
+    "Welcome to React": "Resume",
+    "frontend":"Frontend Development",
+    "name":"Ikboljon Orifjonov",
+    "address":"Home-9,Yashnobod district,Tashkent city",
+   "personal details":"Tel:99890 343 83 30   //   Email/orifjonoviqboljon@gmail.com",
+   "experince":"EXPERINCE",
+   "designer":"Graphic designer",
+   "ofis":"Mollis textile LLC",
+   "gemini":"I worked on Gemini. Gemini is a CAD (Computer-Aided Design) system developed for design, pattern creation and automated cutting processes in the textile and clothing industry. This program helps to speed up production processes and use resources efficiently. It cuts fabric optimally, reducing waste and scrap. It uses special algorithms to save each piece of fabric. It reduces material waste thanks to the optimal fabric placement algorithm. It increases production speed with automated processes. It ensures high accuracy in the design and cutting process.",
+   "ofis2":"Platinum textile LLC",
+   "texnopark":"Technopark LLC",
+      "ofis3":"Quality Controller",
+       "control":"The task of a quality controller is to control production processes, assess the quality of finished products based on established standards and requirements, and prevent defects. This position is especially important in the production of technical and technological products. Checking compliance with quality standards at all stages of product production.Monitoring the correct implementation of production technologies.Checking finished products based on quality standards (ISO, GOST or internal company standards). Testing products using special equipment. Identifying defective products and analyzing their causes.Making recommendations for eliminating defects that have arisen during the production process.",
+       "education":"Education",
+       "major":"Frontend ReactJS",
+       "named":"Study Center named NA'JOT TA'LIM ",
+        "subject":"HTML CSS SASS Bootstrap Tailwind JavaScript React Typescript Next js ",
+        "major2":"Control and automation of technological processes",
+        "named2":"Fergana Polytechnic Institute",
+        "subject2":"The direction of technological process control and automation is of great importance in modern production, and its main goal is to manage production processes with high efficiency, reduce the human factor and ensure optimal use of resources. These processes use sensors, actuators, programmable logic controllers (PLC), SCADA systems and robotics technologies."
+       
+  }
