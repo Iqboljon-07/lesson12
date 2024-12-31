@@ -18,6 +18,35 @@
         "subject":"HTML CSS SASS Bootstrap Tailwind JavaScript React Typescript Next js ",
         "major2":"Control and automation of technological processes",
         "named2":"Fergana Polytechnic Institute",
-        "subject2":"The direction of technological process control and automation is of great importance in modern production, and its main goal is to manage production processes with high efficiency, reduce the human factor and ensure optimal use of resources. These processes use sensors, actuators, programmable logic controllers (PLC), SCADA systems and robotics technologies."
+        "subject2":"The direction of technological process control and automation is of great importance in modern production, and its main goal is to manage production processes with high efficiency, reduce the human factor and ensure optimal use of resources. These processes use sensors, actuators, programmable logic controllers (PLC), SCADA systems and robotics technologies.",
+        "apple":"Apple",
+        "banana":"Banana",
+        "cherry":"Cherry",
+        "orange":"Orange",
+        "kiwi":"Kiwi",
+        "pomegranate":"Pomegranate",
+        "grapes":"Grapes",
+        "watermelon":"Watermelon",
+        "fruit":"Fruits",
+        "Js":"The JavaScript (JS) programming language was created by Brendan Eich. He created the language in 1995 while working at Netscape Communications. JavaScript was originally called 'Mocha', later renamed 'LiveScript', and finally named 'JavaScript'. Initially, JavaScript was used only for making user interfaces interactive. Today, it is also used on the server side (via Node.js) and in mobile applications. JavaScript remains one of the most popular programming languages ​​in the world.",
+        "Html":"The founder and first developer of HTML (HyperText Markup Language) is Tim Berners-Lee. He proposed the concept of the World Wide Web (WWW) in 1989 and developed HTML as one of its core technologies. 1989: While working at the CERN laboratory (European Organization for Nuclear Research), Tim Berners-Lee proposed the concept of a web project for information exchange. 1991: He created the first web page, which was based on HTML. This initial version had 18 tags.1993: HTML was officially adopted as a web standard. HTML was originally designed to make it easier to link and access text and documents on the Internet. It is now used to define the structure of entire web pages.Tim Berners-Lee was a major contributor to the growth of the web and is still actively involved in the development of the internet today. 🌐",
+        "message":"  <0>The React JavaScript library was originally created by Jordan Walke. It was developed at Facebook in 2011 and was initially used for the company's internal projects.</0>  <1> React was originally developed for Facebook's News Feed, but today it is widely used to build web applications around the world.</1>",
+        "pragramm":"Developers",
+        "home":"Home",
+        "product":"Products",
+        "developer":"Developers",
+        "partners":"Partners",
+        "partner":"<0>Android operating system:</0> <1> Samsung developed Android together with Google, making Galaxysmartphones the most popular Android devices in the world.</1>",
+        "partner2":"<0>Google Services:</0> <1> Samsung devices have deep integration with services like Google Maps, YouTube, and Google Assistant. </1>",
+        "partner3":"<0>Wear OS:</0> <1>A partnership with Google on the Wear OS operating system forSamsung smartwatches (e.g., Galaxy Watch).</1>",
+        "hamkor_one":" Partner ",
+        "hamkor_other":"Partners",
+        "samsung":"Samsung Galaxy and Windows Integration: Galaxy smartphones have been designed to work better with Windows with the 'Link to Windows' feature.Office and OneDrive: Samsung devices come pre-installed with Microsoft Office applications and cloud services.Xbox Gaming: Samsung smart TVs are integrated with Xbox Cloud Gaming, allowing users to play games via the cloud.",
+        "language":"Language"
+                 
+                 
+    
+
+
        
   }

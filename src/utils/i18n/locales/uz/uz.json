@@ -1,6 +1,6 @@
 {
     "Welcome to React": "Rezyume",
-      "frontend":"Frontend шshlab СHiqish",
+      "frontend":"Frontend ishlab chiqish",
       "name":"Iqboljon Orifjonov",
            "address":"Uy-9, Yashnobod tumani, Toshkent shahri",
             "personal details":"Tel:99890 343 83 30   //   Email/orifjonoviqboljon@gmail.com",
@@ -18,5 +18,31 @@
                "subject":"HTML CSS SASS Bootstrap Tailwind JavaScript React Typescript Next js ",
                "major2":"Texnologik jarayonlarni boshqarish va avtomatlashtirish",
                "named2":"Farg'ona Politexnika instuti",
-               "subject2":"Texnologik jarayonlarni boshqarish va avtomatlashtirish yo‘nalishi zamonaviy ishlab chiqarish sohasida muhim ahamiyatga ega bo‘lib, uning asosiy maqsadi ishlab chiqarish jarayonlarini yuqori samaradorlik bilan boshqarish, inson omilini kamaytirish va resurslardan optimal foydalanishni ta’minlashdir. Bu jarayonlarda sensorlar, aktuatorlar, dasturlashtiriladigan mantiqiy boshqaruvchilar (PLC), SCADA tizimlari va robototexnika texnologiyalaridan foydalaniladi."
+               "subject2":"Texnologik jarayonlarni boshqarish va avtomatlashtirish yo‘nalishi zamonaviy ishlab chiqarish sohasida muhim ahamiyatga ega bo‘lib, uning asosiy maqsadi ishlab chiqarish jarayonlarini yuqori samaradorlik bilan boshqarish, inson omilini kamaytirish va resurslardan optimal foydalanishni ta’minlashdir. Bu jarayonlarda sensorlar, aktuatorlar, dasturlashtiriladigan mantiqiy boshqaruvchilar (PLC), SCADA tizimlari va robototexnika texnologiyalaridan foydalaniladi.",
+               "apple":"Olma",
+               "banana":"Banan",
+                "cherry":"Gilos",
+              "orange":"Apelsin",
+              "kiwi":"Kivi",
+              "pomegranate":"Anor",
+              "grapes":"Uzum",
+              "watermelon":"Tarvuz",
+               "fruit":"Mevalar",
+               "Js":"JavaScript (JS) dasturlash tilini Brendan Eich yaratgan. U 1995-yilda Netscape Communications kompaniyasida ishlaganida ushbu tilni yaratdi. JavaScript dastlab 'Mocha' deb nomlangan, keyinroq 'LiveScript' deb o'zgartirilgan, va oxir-oqibat 'JavaScript' nomini olgan.Dastlab, JavaScript faqat foydalanuvchi interfeysini interaktiv qilish uchun ishlatilgan. Bugungi kunda esa u server tarafida (Node.js orqali) va mobil ilovalarda ham qo'llaniladi.JavaScript dunyoning eng mashhur dasturlash tillaridan biri bo'lib qolmoqda",
+               "Html":"HTML (HyperText Markup Language) asoschisi va uning ilk versiyasini yaratgan shaxs Tim Berners-Lee hisoblanadi. U 1989-yilda Jahon Wide Web (WWW) konsepsiyasini taklif qilgan va HTMLni uning asosiy texnologiyalaridan biri sifatida ishlab chiqqan.1989-yil: Tim Berners-Lee CERN laboratoriyasida (Yevropa yadro tadqiqotlari markazi) ishlaganida, axborot almashinuvi uchun veb-loyiha konsepsiyasini taklif qildi.1991-yil: U birinchi veb-sahifani yaratdi va unda HTML asosida ishladi. Bu dastlabki versiyada 18 ta teg mavjud edi.1993-yil: HTML rasmiy ravishda veb-standart sifatida qabul qilina boshlandi.HTML dastlab internet orqali matn va hujjatlarni bog'lash va ularga kirishni osonlashtirish uchun mo'ljallangan. Hozirda u butun veb-sahifalarning tuzilishini aniqlash uchun ishlatiladi.Tim Berners-Lee vebning o'sishiga asosiy hissa qo'shgan va bugungi kunda ham internet rivojida faol ishtirok etib kelmoqda. 🌐",
+               "message":"<0>React JavaScript kutubxonasi dastlab Jordan Walke tomonidan yaratilgan. U 2011-yilda Facebook’da ishlab chiqilgan va dastlab kompaniyaning ichki loyihalari uchun foydalanilgan.</0> <1> React dastlab Facebook’ning News Feed uchun ishlab chiqilgan, ammo bugungi kunda u butun dunyo bo‘ylab veb-ilovalarni yaratishda keng qo‘llaniladi.</1 >",
+               "pragramm":"Dasturchilar",
+               "home":"Uy",
+                 "product":"Mahsulotlar",
+                  "developer":"Dasturchilar",
+                  "partners":"Hamkorlar",
+                   "partner":"<0>Android operatsion tizimi:</0> <1> Samsung Google bilan birgalikda Androidni rivojlantirib, Galaxy smartfonlarini dunyodagi eng mashhur Android qurilmalariga aylantirdi.</1>",
+                     "partner2":"<0>Google Services:</0> <1>  Samsung qurilmalari Google Maps, YouTube, va Google Assistant kabi xizmatlar bilan chuqur integratsiyaga ega. </1>",
+                      "partner3":"<0>Wear OS</0> <1>Samsungning aqlli soatlari (masalan, Galaxy Watch) uchun Google bilan Wear OS operatsion tizimi bo'yicha hamkorlik.</1>",
+                      "hamkor_one":" Hamkor ",
+                       "hamkor_other":"Hamkorlar",
+                       "samsung":"Samsung Galaxy va Windows integratsiyasi: Galaxy smartfonlari Windows bilan yaxshiroq ishlashi uchun 'Link to Windows' funksiyasi yaratilgan.Office va OneDrive: Samsung qurilmalarida Microsoft Office ilovalari va bulutli xizmatlar oldindan o‘rnatilgan.Xbox Gaming: Samsung smart-televizorlari Xbox Cloud Gaming bilan integratsiyalashgan, bu orqali foydalanuvchilar bulut orqali o‘yinlar o‘ynay olishadi.",
+                         "language":"Til"
+                 
+              
   }

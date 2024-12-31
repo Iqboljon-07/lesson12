@@ -1,15 +1,17 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { useTranslation } from "react-i18next";
-import photo from "@/assets/photo.jpg";
+
 import { FaFacebookF } from "react-icons/fa";
 
 import { FaTelegram } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
+import user from "@/assets/user.jpg";
 
 const Home = () => {
   // const test = useTranslation(); masalan
   // console.log(test);
   const { t, i18n } = useTranslation();
+
   return (
     <div className="home">
       <div className="home_item">
@@ -29,7 +31,10 @@ const Home = () => {
             </div>
           </div>
           <div className="photo">
-            <img src={photo} alt="" />
+            <img
+              src="https://avatars.githubusercontent.com/u/176794632?v=4"
+              alt="user"
+            />
           </div>
         </div>
         <div className="expirance">
@@ -47,7 +52,7 @@ const Home = () => {
             </div>
             <div className="experince_item1">
               <div className="experince_item2">
-                <h4>2023-2022</h4>
+                <h4>2022-2023</h4>
               </div>
               <div className="experince_item3">
                 <h2>{t("ofis2")} </h2>
@@ -57,7 +62,7 @@ const Home = () => {
             </div>
             <div className="experince_item1">
               <div className="experince_item2">
-                <h4>2023-2022</h4>
+                <h4>2021-2022</h4>
               </div>
               <div className="experince_item3">
                 <h2>{t("texnopark")} </h2>
@@ -86,7 +91,7 @@ const Home = () => {
                 <h4>2017-2021</h4>
               </div>
               <div className="experince_item3">
-                <h2>{t("ofis2")} </h2>
+                <h2>{t("major2")} </h2>
                 <h3>{t("named2")} </h3>
                 <p>{t("subject2")} </p>
               </div>

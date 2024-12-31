@@ -22,7 +22,7 @@ const Button = () => {
   return (
     <div>
       <select name="" id="" onChange={handleChange}>
-        <option value="">🌐 Language</option>
+        <option value="">🌐 {t("language")} </option>
         <option value="eng">eng</option>
         <option value="ru">ru</option>
         <option value="uz">uz</option>
